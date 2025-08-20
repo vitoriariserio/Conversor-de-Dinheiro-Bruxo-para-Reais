@@ -9,21 +9,27 @@ Um aplicativo simples feito em **Python** usando **CustomTkinter** que converte 
 
 ## 📊 Conversão de Moedas
 
-- A conversão entre moedas do universo de Harry Potter foi baseada em uma estimativa publicada por Laysa Zanetti no AdoroCinema em 7 de fevereiro de 2016. Segundo essa análise:
+A conversão entre as moedas do universo de Harry Potter foi baseada em informações oficiais disponibilizadas por J. K. Rowling. Segundo a autora, um Galeão equivale aproximadamente a 5 libras esterlinas, embora a taxa de câmbio possa variar:
 
-| Moeda   | Valor em Dolares |
-|---------|------------------|
-| Galeão  | US$ 25,00        |
-| Nuque   | US$ 1,50         |
-| Sicle   | US$ 0,05         |
+>“About five Great British pounds, though the exchange rate varies!”
 
-- o que nos dias de hoje se equivaleria a:
+Esses dados foram obtidos diretamente da Harry Potter Wiki: https://harrypotter.fandom.com/wiki/Wizarding_currency
+ e serviram como referência para calcular a equivalência em Reais no aplicativo.
+
+
+| Moeda   |  Libras Esterlinas (£)|
+|---------|-----------------------|
+| Galeão  |    	£5,00           |
+| Sicle   |       £0,29           |
+| Nuque   |       £0,01           |
+
+- o que nos dias de hoje, no dia 28/05/2025, se equivaleria *aproximadamente* a:
 
 | Moeda   | Valor em Reais |
 |---------|----------------|
-| Galeão  | 137.49         |
-| Nuque   | 0.27           |
-| Sicle   | 8.25           |
+| Galeão  | R$ 37,50       |
+| Sicle   | R$ 2,21        |
+| Nuque   | R$ 0,08        |
 
 ## 🚀 Como usar
 
