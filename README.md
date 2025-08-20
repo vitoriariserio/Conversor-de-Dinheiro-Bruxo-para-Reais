@@ -29,4 +29,4 @@ Um aplicativo simples feito em **Python** usando **CustomTkinter** que converte 
 
 1. Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/vitoriariserio/Conversor-de-Dinheiro-Bruxo-para-Reais
