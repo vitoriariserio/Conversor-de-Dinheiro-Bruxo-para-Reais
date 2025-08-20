@@ -46,3 +46,9 @@ git clone https://github.com/vitoriariserio/Conversor-de-Dinheiro-Bruxo-para-Rea
  python conversor_bruxo.py
 ```
 4. Insira o valor em Reais, escolha a moeda de destino e clique em Converter.
+
+## 🔒 Aviso Legal
+>Este projeto é um app de fã para fãs, criado apenas para estudo e diversão.
+Não possui qualquer relação oficial com J. K. Rowling, Warner Bros. ou o universo de Harry Potter.
+Todas as taxas de conversão são fictícias e baseadas em informações públicas do fandom.
+Sem fins lucrativos.
