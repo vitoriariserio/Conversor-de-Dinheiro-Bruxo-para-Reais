@@ -75,7 +75,7 @@ def button_event():
             return
 
        
-        taxas = Dinheiro(galeao=137.49, nuque=0.27, sicle=8.25)
+        taxas = Dinheiro(galeao=37.50, nuque=0.08, sicle=2.21)
         conversor = Conversor(taxas)
 
         resultado = conversor.converter(valor, moeda)
