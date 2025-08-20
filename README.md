@@ -43,7 +43,7 @@ git clone https://github.com/vitoriariserio/Conversor-de-Dinheiro-Bruxo-para-Rea
 ```
 3. Execute o arquivo Python:
 ```bash
- python conversor_bruxo.py
+ python Conversor-de-Dinheiro-Bruxo-para-Reais.py
 ```
 4. Insira o valor em Reais, escolha a moeda de destino e clique em Converter.
 
