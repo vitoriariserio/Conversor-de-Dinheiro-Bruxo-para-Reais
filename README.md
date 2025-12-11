@@ -39,11 +39,11 @@ git clone https://github.com/vitoriariserio/Conversor-de-Dinheiro-Bruxo-para-Rea
 ```
 2. Instale a dependência customtkinter:
 ```bash
-   pip install customtkinter
+pip install customtkinter
 ```
 3. Execute o arquivo Python:
 ```bash
- python Conversor-de-Dinheiro-Bruxo-para-Reais.py
+python Conversor-de-Dinheiro-Bruxo-para-Reais.py
 ```
 4. Insira o valor em Reais, escolha a moeda de destino e clique em Converter.
 
